@@ -240,7 +240,8 @@ export default {
         // setTimeout(() => {
         //   this.show = false
         // }, 1500);
-        this.$toast.show(res,2000)
+        
+        // this.$toast.show(res,2000)
       })
     }
   },
