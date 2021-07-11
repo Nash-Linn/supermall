@@ -1,5 +1,5 @@
 <template>
-  <div class="bottom-bar">
+  <div class="bottom-bar ">
     <div class="check-content">
       <check-button 
         class="check-button"  
@@ -82,7 +82,7 @@ export default {
 .check-content{
   display: flex;
   height: 100%;
-  width: 60px;
+  width: 70px;
   align-items: center;
   margin-left: 10px;
 }
